@@ -33,3 +33,23 @@ The dashboard and story are embedded in a responsive web interface that helps us
 - [✔] Bootstrap 5  
 - [✔] GitHub Pages (for hosting)
 
+---
+
+## 📸 Screenshots
+
+**Dashboard View**  
+![Dashboard](https://prasanna1945.github.io/ev-analysis/assets/dashboard.png)
+
+**Story View - Electric Vehicles in India**  
+![Story](https://prasanna1945.github.io/ev-analysis/assets/story.png)
+
+**Charging Station Distribution**  
+![Map](https://prasanna1945.github.io/ev-analysis/assets/station_map.png)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prasanna1945/ev-analysis.git
