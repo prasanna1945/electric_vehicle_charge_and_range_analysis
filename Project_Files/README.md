@@ -19,10 +19,13 @@ The dashboard and story are embedded in a responsive web interface that helps us
 
 ## 📁 Datasets Used
 
-- **EVIndia.csv** – EV model and specifications in India  
-- **Electric_vehicle_charging_station_list.csv** – EV charging infrastructure in India  
-- **ElectricCarData_Clean.csv** – Global EV data  
-- **Cheapestelectriccars-EVDatabase.csv** – Pricing and range data of affordable EVs
+📂 [Access Datasets on Google Drive](https://drive.google.com/drive/folders/13oJ6LcO3axYerDnLRp8L5GnGB-X5X_F7)
+
+Contains:
+- EVIndia.csv – EV model and specifications in India  
+- Electric_vehicle_charging_station_list.csv – EV charging infrastructure  
+- ElectricCarData_Clean.csv – Global EV specs  
+- Cheapestelectriccars-EVDatabase.csv – Affordable EV price & range data
 
 ---
 
@@ -32,5 +35,3 @@ The dashboard and story are embedded in a responsive web interface that helps us
 - [✔] HTML / CSS  
 - [✔] Bootstrap 5  
 - [✔] GitHub Pages (for hosting)
-
-
